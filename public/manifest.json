@@ -1,0 +1,30 @@
+{
+  "name": "React Material Admin",
+  "short_name": "React Material Admin",
+  
+  "lang": "en-US",
+  "orientation": "any",
+  
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+	{
+        "src": "react-192.png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "react-512.png",
+        "sizes": "512x512"
+      }
+  ],
+
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#536DFE",
+  "background_color": "#ffffff",
+  
+  "description": "A Progressive Web Application using React and Material UI"
+}
